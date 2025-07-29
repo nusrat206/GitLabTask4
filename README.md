@@ -1,1 +1,1 @@
-# My Firat Git Project
+# My First Git Project
